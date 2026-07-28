@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=%20I'm%20Izan%20Moya!%20👋&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=%20I'm%20Izan%20Moya!%20%F0%9F%91%8B&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
-  <h3>Junior Software Developer | Big Data & AI Specialist in Training</h3>
-  <p>Based in Valencia, Spain 🇪🇸</p>
+  <h3>Full-Stack Developer · MSc in Big Data & AI</h3>
+  <p>Building and shipping production software from Valencia, Spain 🇪🇸</p>
 
   <a href="https://www.linkedin.com/in/izan-moya-romero-b06769328/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,57 +21,93 @@
 
 ### 👨‍💻 About Me
 
-I am a **DAM graduate** currently pursuing a **Master's in Big Data & AI**. My passion lies at the intersection of robust Software Engineering and the predictive power of Artificial Intelligence.
+DAM graduate with a **Master's in Big Data & AI**, starting a **BSc in Data Science (UOC)** in September 2026. I work at the intersection of software engineering that has to survive real users and machine learning that has to be explainable.
 
-* 🔭 I’m currently working on a **Geolocation & Time Tracking App** using Spring Boot and React Native.
-* 🧠 I’m learning about **LLM architectures**, building models from scratch, and exploring **Credit Risk Prediction** models.
-* 💼 I have experience developing enterprise software with **Java & Oracle SQL** at *EVHa (Generalitat Valenciana)*.
-* 🌱 I’m active on **Kaggle** and exploring new models on **Hugging Face**.
-* ⚡ Fun fact: When I'm not coding, I'm climbing rocks, playing basketball, or reading philosophy.
+* 🚀 I build and run **[Lafiho](#-lafiho--b2b-workforce-management-saas)**, a multi-tenant B2B SaaS currently live with pilot companies — I own it end to end: backend, web, mobile, infrastructure and billing.
+* 🧠 Working on **retrieval-augmented generation** and embeddings (Qdrant, BGE-M3) with *El Hilo Invisible*.
+* 📊 Interested in **explainable ML**: gradient boosting, SHAP, and the gap between a good AUC and a decision someone can defend.
+* 💼 Previously developed enterprise software with **Java & Oracle SQL** at *EVHa (Generalitat Valenciana)*.
+* ⚡ Off-keyboard: climbing, basketball, philosophy and Borges.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=flat&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=postgresql&logoColor=white)
 
-**Backend & Data**
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+**Backend**
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=flat&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 **Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+**Data & ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📍 Geolocation & Time Tracking App (TFG)
-*A full-stack solution for real-time workforce management.* 
-* **Tech:** React Native (Expo), Spring Boot, Hibernate, MySQL, Docker.
-* **Deployment:** Containers on Render & Railway[cite: 38].
+#### 📍 Lafiho — B2B Workforce Management SaaS
+*A multi-tenant platform for time tracking, scheduling and labour compliance. Started as my final degree project and grew into a real product with paying-track pilot companies.*
 
-#### 🤖 Tax Fraud Detection System (TFM)
-*Machine Learning predictive system to identify anomalous patterns in fiscal data.* 
-* **Tech:** Python, Scikit-learn, Pandas, Classification Models.
+* **Backend:** Spring Boot 3.4 · Java 17 · Hibernate · MySQL · Stripe subscriptions · 550+ automated tests
+* **Web:** React 19 · TypeScript · Vite · Tailwind
+* **Mobile:** React Native + Expo — **published on the App Store**, Android in closed testing
+* **Infra:** Docker Compose on a Linux VPS · A+ SSL · encrypted off-site backups · uptime monitoring
+* **Highlights:** geofenced clock-in with Haversine validation, rotating/flexible shift engine, automatic shift closing, audited time-entry edits, GDPR-scoped data exposure per role
+
+#### 🧵 El Hilo Invisible — Cultural RAG Engine
+*A retrieval system that surfaces intertextual connections between songs, films, books and poetry.*
+
+* **Tech:** FastAPI · Qdrant · BGE-M3 embeddings · Next.js
+* **Focus:** semantic search over a curated multilingual corpus, chunking strategy, hybrid retrieval
+* 🔗 [`RAG---El-Hilo-Cultural`](https://github.com/IzanMoya/RAG---El-Hilo-Cultural)
+
+#### 💳 Credit Risk Scoring (MSc Thesis)
+*End-to-end credit default prediction, from model to a UI a non-technical user can actually read.*
+
+* **Model:** LightGBM · AUC 0.756 · SHAP explainability · Home Credit Default Risk dataset
+* **Serving:** FastAPI backend + React/TypeScript/Tailwind frontend
+* 🔗 [`Riesgo-Crediticio-en-Banca`](https://github.com/IzanMoya/Riesgo-Crediticio-en-Banca) · 🤗 [Model on Hugging Face](https://huggingface.co/IzanMoya/Credit-Scoring-Risk-Model-TFM)
 
 #### 🧠 Transformer LLM "From Scratch"
-*Implementation of a language model to understand the Attention Mechanism and NLP fundamentals.* 
-* **Focus:** Multi-head attention, Tokenization, PyTorch.
+*A language model built from the ground up to really understand attention rather than call it.*
+
+* **Focus:** multi-head attention · tokenization · positional encodings · PyTorch
+
+---
+
+### 📚 Currently
+
+Starting the **BSc in Data Science at UOC** (Sept 2026) — probability & statistics, R, and the mathematical foundations underneath the models I've been training. Meanwhile: shipping Lafiho features and iterating on retrieval systems.
 
 ---
 
