@@ -31,7 +31,7 @@ DAM graduate with a **Master's in Big Data & AI**, starting a **BSc in Data Scie
 
 ---
 
-### 🛠️ Tech Sta
+### 🛠️ Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
