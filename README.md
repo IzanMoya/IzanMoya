@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About M
+### 👨‍💻 About Me
 
 DAM graduate with a **Master's in Big Data & AI**, starting a **BSc in Data Science (UOC)** in September 2026. I work at the intersection of software engineering that has to survive real users and machine learning that has to be explainable.
 
